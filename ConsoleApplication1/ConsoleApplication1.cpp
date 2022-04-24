@@ -91,6 +91,9 @@ int main()
         cout << massiv[i] << " ";
     }
 
+    cout << "test text";
+
+
 }
 
 
